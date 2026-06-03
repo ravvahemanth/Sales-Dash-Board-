@@ -101,6 +101,14 @@ Full product breakdown with Total Amount and Profit %:
 
 ---
 
+
+
+### Output 
+
+
+<img width="1292" height="725" alt="image" src="https://github.com/user-attachments/assets/f53a1309-710a-47cd-a9d5-5da686ac5334" />
+
+
 ## 🚀 How to Open
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
